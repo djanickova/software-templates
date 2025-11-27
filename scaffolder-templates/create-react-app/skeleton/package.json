@@ -1,6 +1,4 @@
 {
-  "name": "${{values.component_id}}",
-  "new": "${{values.component_id}}",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
